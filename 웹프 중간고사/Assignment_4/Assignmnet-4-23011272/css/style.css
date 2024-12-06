@@ -1,0 +1,57 @@
+/* Write your CSS here */
+
+
+body {      
+            
+            background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("/Users/gosein/Desktop/Assignment_4/Assignmnet-4-StudentID/sju-log.png");
+            background-position: 25% 40%;
+            background-size: 400px 400px;
+            background-repeat: no-repeat;
+            font-style: normal;
+
+
+}
+div{  
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 500px;
+    margin-left: 20px;
+
+    padding-top: 5px;
+    padding-right: 0px;
+    padding-left: 80px;
+    
+  }
+
+
+.first_logo {
+    max-width: 100px;
+    margin-right: 20px;
+}
+
+
+.sejong h1 {
+    margin-top: 10px;
+    font-size: 1.8em;
+    color: #333;
+}
+
+.sejong p {
+    margin: 5px 0;
+    color: #555;
+    font-size: 0.9em;
+    /*line-height: 1.5;*/
+}
+
+
+.location {
+    text-align: right;
+    margin-top:10px ;
+    float: right;
+
+}
+.geul {
+    width: 750px;
+    height: 1000px;
+}
+
